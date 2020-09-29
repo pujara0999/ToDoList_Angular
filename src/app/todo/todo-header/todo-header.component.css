@@ -1,0 +1,25 @@
+.container-fluid {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 15px;
+}
+
+.heading {
+    color: #101820FF;
+    background-color: transparent;
+}
+
+h1 {
+    font-weight: 700;
+}
+.box {
+    max-width: 400px;
+    margin: 0px auto -1%;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+
+.headBox {
+    background: #FEE715FF;
+}

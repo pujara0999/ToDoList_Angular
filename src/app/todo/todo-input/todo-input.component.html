@@ -1,0 +1,5 @@
+<div class="takeinput">
+    Add your tasks: <input [value]='data' (change)="changeValue($event)"/>
+    <button (click)="addToList()" >Add to list</button>
+    <button (click)="clear()">Clear All</button>
+</div>
